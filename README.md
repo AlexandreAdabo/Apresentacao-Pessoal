@@ -1,2 +1,2 @@
 # Apresentação Pessoal
- Página pessoal de apresentação
+ Página pessoal de apresentação profissional
