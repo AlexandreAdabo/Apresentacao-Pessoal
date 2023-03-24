@@ -1,5 +1,5 @@
 # Apresentação Pessoal
- Página pessoal de Apresentação Profissional
+ Página de Apresentação Profissional
  
  
 ## *Lista de tarefas* 
@@ -20,7 +20,7 @@
 ---
 [Acesse meu GitHub](https://github.com/AlexandreAdabo)
 ---
-[Acesse meu WordPress]()
+[Acesse meu WordPress](https://grupowebee.com/)
 ---
-[Acesse meu Linkedin](https://www.linkedin.com/in/alexandre-santos-adabo-394002112/)
+[Acesse meu Linkedin](https://www.linkedin.com/in/alexandreadabo/)
 ---
